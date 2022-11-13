@@ -16,7 +16,7 @@
 <center><span style = " font-family: 'BM Hanna Pro'; font-size:1.7em;  color: green;">
       <br/>
       <i class="fa-solid fa-seedling"></i>
-      비건 프로젝트 (제목)
+      <a href='index.jsp'>비건 프로젝트 (제목)</a>
 
       <i class="fa-solid fa-seedling"></i>
       </span> </center>
