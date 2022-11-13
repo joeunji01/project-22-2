@@ -32,7 +32,7 @@
       <li><a href="<%= request.getContextPath() %>/user/user_insert_form.jsp">비건인증</a>
         <ul id="sub-menu">
           <li><a href='intro.jsp'>인증소개&절차</a></li>
-          <li><a href='#'>제품소개</a></li>
+          <li><a href='products.jsp'>제품소개</a></li>
         </ul>
       </li></ul>
 
