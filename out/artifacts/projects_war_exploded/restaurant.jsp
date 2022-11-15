@@ -13,14 +13,20 @@
       <script src="https://kit.fontawesome.com/35a0ae4dcc.js" crossorigin="anonymous"></script>
     <title>restaurant</title>
   </head>
+
   <body>
-  <center><span style = " font-family: 'AppleGothic'; font-size:1.7em;  color: green;">
+  <center><span style = " font-family: 'Anton-Regular'; font-size:3.0em;  color: green; line-height: 1.5em">
       <br/>
       <i class="fa-solid fa-seedling"></i>
-      <a href='index.jsp'>비건 프로젝트 (제목)</a>
+      <a href='index.jsp'>VEGGIE MEAL</a>
 
       <i class="fa-solid fa-seedling"></i>
-      </span> </center>
+      <br/>
+      </span>
+      <span style="font-size: 1.0em line-height: 1.5em">
+      <a>베 지  밀</a>
+        </span>
+  </center>
   <br/>
 
   <nav role="navigation">

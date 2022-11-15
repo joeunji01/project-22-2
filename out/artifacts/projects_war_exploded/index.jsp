@@ -15,16 +15,29 @@
       <title>
         Project 01
       </title>
+
+      <style>
+        h1{
+          background-image: url("/images/2.jpg");
+          background-size: cover;
+        }
+      </style>
+
   </head>
 
     <body>
-    <center><span style = " font-family: 'AppleGothic'; font-size:1.7em;  color: green;">
+    <center><span style = " font-family: 'Anton-Regular'; font-size:3.0em;  color: green; line-height: 1.5em">
       <br/>
       <i class="fa-solid fa-seedling"></i>
-      <a href='index.jsp'>비건 프로젝트 (제목)</a>
+      <a href='index.jsp'>VEGGIE MEAL</a>
 
       <i class="fa-solid fa-seedling"></i>
-      </span> </center>
+      <br/>
+      </span>
+      <span style="font-family: GmarketSansTTFMedium;font-size: 1.5em; line-height: 1.5em">
+      <a>베 지  밀</a>
+        </span>
+      </center>
     <br/>
 
     <nav role="navigation">
@@ -49,17 +62,22 @@
     </ul>
     </nav>
 
+
     <br><br/>
-    <div align="center" style="border: 1px solid white; height: 500px; width: 1300px; background-color: lightyellow; background-size: cover; padding: 30px;">
+    <br><br/>
+    <br><br/>
+
+    <div align="center" style="border: 1px dotted white; height: 500px; width: 1300px; background-color: whitesmoke; background-size: cover; padding: 30px; opacity: 0.9">
       <td style='letter-spacing: normal'>
       <br/>
 
-        <sapn style="font-family: 'AppleGothic'; font-size: 1.3em; color black;">
+        <sapn style="font-family: GmarketSansTTFMedium; font-size: 1.3em; color black;">
           <img src="images/1.jpg">
           <div>여기에 설명</div>
 
         </sapn>
+        <br/><br/><br/><br/><br/><br/>
     </div>
-
+    <br/><br/><br/><br/><br/><br/>
   </body>
 </html>

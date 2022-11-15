@@ -21,8 +21,17 @@
       <change afterPath="$PROJECT_DIR$/../PROJECT221109/src/MouseListenerAllEx.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PROJECT221109/src/MouseListenerEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/board.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/board.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/intro.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/intro.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/products.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/products.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/restaurant.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/restaurant.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/style/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/style/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/board.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/board.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/intro.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/intro.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/products.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/products.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/restaurant.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/restaurant.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/style/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/style/menu.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -195,6 +204,8 @@
       <workItem from="1668437246705" duration="1808000" />
       <workItem from="1668497192174" duration="3932000" />
       <workItem from="1668501723135" duration="486000" />
+      <workItem from="1668504498363" duration="4666000" />
+      <workItem from="1668510252609" duration="1270000" />
     </task>
     <servers />
   </component>
