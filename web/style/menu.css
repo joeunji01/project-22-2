@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: "AppleGothic";
+    font-size: 1.0em;
     display: flex;
     flex-flow: column nowrap;
     justify-content: center;
@@ -30,7 +31,7 @@ ul, li {
 }
 
 #main-menu > li > a {
-    font-size: 1.3em;
+    font-size: 0.9em;
     color: black;
     text-align: center;
     text-decoration: none;
