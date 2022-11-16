@@ -1,8 +1,41 @@
-
-.tiledBackground {
-    width: 50px;
-    height: 50px;
-    background-image:url('/images/1.jpg');
-    background-size: cover;
-    color: pink;
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@font-face {
+    font-family: 'GmarketSansMedium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
+body{
+    background: whitesmoke;
+}
+
+h1{
+        font-family: 'Anton', sans-serif;
+        font-size: 3.0em;
+        color: green;}
+h2{
+    font-family: GmarketSansMedium, serif;
+    font-size: 2.0em;
+    color: black;
+
+}
+
+h3{
+        font-family: 'GmarketSansMedium', serif;
+        font-size: 1.3em;
+        color: black;
+    }
+h4{
+    font-family: 'GmarketSansMedium', serif;
+    font-size: 1.3em;
+    color: darkgreen;
+}
+
+h5{
+    font-family: 'GmarketSansMedium', serif;
+    font-size: 1.1em;
+    color: black;
+    line-height: 1.3em;
+}
+
+

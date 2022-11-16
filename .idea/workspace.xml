@@ -26,13 +26,13 @@
       <change beforePath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/intro.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/intro.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/products.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/products.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/restaurant.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/restaurant.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/style/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/style/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/style/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/projects_war_exploded/style/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/board.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/board.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/intro.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/intro.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/products.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/products.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/restaurant.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/restaurant.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/style/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/style/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/style/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/style/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +205,10 @@
       <workItem from="1668497192174" duration="3932000" />
       <workItem from="1668501723135" duration="486000" />
       <workItem from="1668504498363" duration="4666000" />
-      <workItem from="1668510252609" duration="1270000" />
+      <workItem from="1668510252609" duration="3129000" />
+      <workItem from="1668558202093" duration="6133000" />
+      <workItem from="1668564631477" duration="965000" />
+      <workItem from="1668590313993" duration="8559000" />
     </task>
     <servers />
   </component>

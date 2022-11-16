@@ -8,23 +8,18 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-  <link rel="stylesheet" href="/style/menu.css" type="text/css">
+    <link rel="stylesheet" href="/style/main.css" type="text/css">
+    <link rel="stylesheet" href="/style/menu.css" type="text/css">
   <script src="https://kit.fontawesome.com/35a0ae4dcc.js" crossorigin="anonymous"></script>
     <title>products</title>
 </head>
 <body>
-<center><span style = " font-family: 'Anton-Regular'; font-size:3.0em;  color: green; line-height: 1.5em">
-      <br/>
-      <i class="fa-solid fa-seedling"></i>
-      <a href='index.jsp'>VEGGIE MEAL</a>
+<h1>
+    <br>
+    <i class="fa-solid fa-seedling"></i>
+    <a href='index.jsp'>VEGGIE MEAL</a>
+    <i class="fa-solid fa-seedling"></i></h1>
 
-      <i class="fa-solid fa-seedling"></i>
-      <br/>
-      </span>
-    <span style="font-size: 1.0em line-height: 1.5em">
-      <a>베 지  밀</a>
-        </span>
-</center>
 <br/>
 
 <nav role="navigation">
@@ -48,5 +43,7 @@
     <li><a href="#">마이페이지</a></li>
   </ul>
 </nav>
+<br><br><br><br><br><br>
+<hr width = "90%" color = "black">
 </body>
 </html>
