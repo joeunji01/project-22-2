@@ -8,19 +8,19 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
     <head>
-      <link rel="stylesheet" href="/style/main.css" type="text/css">
-      <link rel="stylesheet" href="/style/menu.css" type="text/css">
+      <meta name="viewport" content="width=device-width",intial-scale="1">
+      <link rel="stylesheet" href="${pageContext.request.contextPath}/style/main.css" type="text/css">
+      <link rel="stylesheet" href="${pageContext.request.contextPath}/style/menu.css" type="text/css">
 
       <title>
         Project 01
       </title>
       <script src="https://kit.fontawesome.com/35a0ae4dcc.js" crossorigin="anonymous"></script>
 
-  </head>
 
+  </head>
     <body>
       <h1>
-        <br>
         <i class="fa-solid fa-seedling"></i>
         <a href='index.jsp'>VEGGIE MEAL</a>
         <i class="fa-solid fa-seedling"></i></h1>
@@ -49,20 +49,33 @@
     </ul>
     </nav>
 
-    <br><br><br><br><br><br>
-    <hr width = "90%" color = "black">
+      </br></br></br></br></br></br>
+      <hr width = "90%" color = "black">
+      <div align="center" style="border: 1px dotted white; height: content-box; width: 1300px; background-color: white; background-size: cover; padding: 30px; opacity: 0.9">
+        <td style='letter-spacing: normal'>
+      <h4>Why Vegan?<hr style="width: border-box"><a style="color:black; font-size: 0.5em">Animals? Planet? Health?</a></h4>
 
-    <div align="center" style="border: 1px dotted white; height: content-box; width: 1300px; background-color: white; background-size: cover; padding: 30px; opacity: 0.9">
-      <td style='letter-spacing: normal'>
-        <h2>VEGANISM?
+
+      <h3><div align="center">
+        최근 '비건'이라는 단어가 대두되고 있다.<br>
+        그러나 그 인지도에 비해 비건에 대해 정확히 아는 사람은 드물다.<br>
+        만약 안다 하더라도 ‘채식주의자’ 그 정도 일 것이다.<br>
+        나름 전세계적으로 가장 많이 성장하고 있는 시장 중 하나가 비건 시장인만큼<br>
+        미래소비자인 우리가 비건에 대해 알아둬야 한다고 생각한다.<br>
+        우리는 Veggie Meal(베지밀),비건 웹 사이트를 통해 미래소비자들에게 생활 속의 비건 상품들을 알려주는 것이 목표이다.<br>
+        이를 통해 미래소비자들이 현명하고 주체적으로 소비를 하길 바란다.<br><br><br><br></div></h3>
+
+
+    <hr width = "border-box" color = "black">
+        <h4>VEGANISM?
           <hr>
-        </h2>
+        </h4>
         <h3>채식주의는 동물성 식품을 제한하고 과일·채소·곡물 등 식물성 식품을 섭취하는 식습관을 지향하는 생활 양식이다.<br>
           비건이란 채식주의 단계 중 하나로 동물에게 제공받는 식품, 의류, 의약품, 화장품 등을 거부하는 사람들을 뜻합니다.<br><br>
           채식주의에도 단계가 있다.<br>
 
           <img style="height: 500px; width: 600px" src="https://cdn.imweb.me/upload/S20210826c6fa6a96dcb7a/05dc87d3ab7ee.png">
-          <br><br><br>
+          <br><br><br><br>
           1. 플렉시테리언(Flexitarian)<br>
           : 말 그대로 ‘유연한 채식'을 하는 사람들을 칭한다.<br>
           평소에는 채식 식단을 유지하지만 상황에 따라 가끔 육류나 해산물을 먹는다.<br>
@@ -91,21 +104,8 @@
 
 
           <br><br><br><br><br><br>
-        </h3>
-        <h4><div align="left">--Why Vegan?</div></h4>
-        <hr>
-        <h3><div align="left"><br>
-          최근 '비건'이라는 단어가 대두되고 있다.<br>
-          그러나 그 인지도에 비해 비건에 대해 정확히 아는 사람은 드물다.<br>
-          만약 안다 하더라도 ‘채식주의자’ 그 정도 일 것이다.<br>
-          나름 전세계적으로 가장 많이 성장하고 있는 시장 중 하나가 비건 시장인만큼 미래소비자인 우리가 비건에 대해 알아둬야 한다고 생각한다.<br>
-          우리는 Veggie Meal(베지밀),비건 웹 사이트를 통해 미래소비자들에게 생활 속의 비건 상품들을 알려주는 것이 목표이다.<br>
-          이를 통해 미래소비자들이 현명하고 주체적으로 소비를 하길 바란다.</div></h3>
-
-
-
+          <hr width = "border-box" color = "black">
+        </h3></td></div>
         <br><br><br><br><br><br>
-    </div>
-    <br><br><br><br><br><br>
   </body>
 </html>

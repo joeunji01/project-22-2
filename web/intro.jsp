@@ -12,15 +12,16 @@
     <link rel="stylesheet" href="/style/main.css" type="text/css">
     <link rel="stylesheet" href="/style/menu.css" type="text/css">
     <script src="https://kit.fontawesome.com/35a0ae4dcc.js" crossorigin="anonymous"></script>
+
+
 </head>
 <body>
-<h1>
-    <br>
-    <i class="fa-solid fa-seedling"></i>
-    <a href='index.jsp'>VEGGIE MEAL</a>
-    <i class="fa-solid fa-seedling"></i></h1>
+    <h1>
+        <i class="fa-solid fa-seedling"></i>
+        <a href='index.jsp'>VEGGIE MEAL</a>
+        <i class="fa-solid fa-seedling"></i></h1>
 
-<br/>
+        <br/>
 
 <nav role="navigation">
     <ul id="main-menu">
@@ -41,8 +42,8 @@
 
     <ul id="main-menu">
         <li><a href="#">마이페이지</a></li>
-    </ul>
-</nav>
+    </ul></nav>
+
 </br>
 </br>
 </br></br></br></br>
@@ -50,7 +51,7 @@
 <div align="center" style="border: 1px dotted white; height: content-box; width: 1300px; background-color: white; background-size: cover; padding: 30px; opacity: 0.9">
     <td style='letter-spacing: normal'>
         <h2>비건인증이란?
-            <hr>
+            <hr style="width: border-box;">
         </h2>
     <h5>
         <a style="color: darkgreen">한국비건인증원</a>에서 실시하는 '비건인증'은 동물 유래 원재료를 사용하거나 이용하지 않고<br>
@@ -62,8 +63,8 @@
         <br><br><a style="font-size: 0.8em">한국비건인증원 비건 인증 마크(Vegan Certification Mark)</a>
         <br><br><br><br><br><br>
 
-       <h4>비건 인증 기준</h4>
-        <hr>
+       <h2>비건 인증 기준</h2>
+        <hr style="width: border-box">
 
     <h5>
         1. 동물 유래 원재료를 이용하지 않아야 한다.<br><br>
@@ -71,12 +72,25 @@
         3. 제품 생산 공정 전 중 후 교차오염이 없어야 한다.<br><br><br><br><br><br>
     </h5>
 
-        <h4>비건 인증 절차</h4>
-        <hr>
+        <h2>비건 인증 절차</h2>
+        <hr style="width:border-box">
 
-    </div>
+        <h5>
+            비건 제품 인증은 ‘한국비건인증원’을 통해 받을 수 있다.,<br>
+            신청 가능 대상 : 식품제조가공업, 식품첨가물제조업, 건강기능식품제조업, 수입식품 등 수입판매업, 식품접객업, 유통전문판매원, 화장품제조업, 화장품제조판매업<br><br><br>
+
+            1. 비건 인증을 원하는 제품에 대한 서류 제출<br><br>
+            2. 신청서의 원재료를 검토하는 서류 심사 실시<br><br>
+            3. 서류 심사 후 적합 제품은 동물성 DNA 검사 실시<br><br>
+            4. 동물성 DNA 결과 동물성 유전자가 불검출임이 확인되면 비건 인증 완료<br><br>
+            5. 한국비건인증원은 인증받은 제품 및 정보 홈페이지 게시<br><br></h5>
+        <br><br><br><br><br><br>
+        <hr width = "width="border-box"" color = "black">
+    </h5></td></div>
 
 <br><br><br><br><br><br>
+    <br><br><br><br><br><br>
+
 
 </body>
 </html>
